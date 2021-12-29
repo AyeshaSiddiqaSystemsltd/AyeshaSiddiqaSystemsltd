@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayesha Siddiqa
-- 👀 I’m interested in MLOps
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps & CI/CD Tools
 
 
